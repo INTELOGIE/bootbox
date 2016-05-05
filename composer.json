@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "components/bootstrap": "*"
+    "intelogie/bootstrap": "*"
   },
   "extra": {
     "component": {
