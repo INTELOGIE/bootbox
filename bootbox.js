@@ -609,6 +609,8 @@
 
     if (options.size === "large") {
       innerDialog.addClass("modal-lg");
+    } else if (options.size === "medium") {
+      innerDialog.addClass("modal-md");    
     } else if (options.size === "small") {
       innerDialog.addClass("modal-sm");
     }
